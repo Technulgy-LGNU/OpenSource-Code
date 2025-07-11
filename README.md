@@ -7,4 +7,4 @@ All of the programms and libraries are free or free for educational purposes.
 
 Please check subfolders for further information on each version.
 
-!(All the software we use)[/softwareimage.jpg]
+![All the software we use](/softwareimage.jpg)
